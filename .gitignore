@@ -1,0 +1,6 @@
+# Ignorar la carpeta de archivos_privados
+top_secret/
+
+# Ignorar los ficheros en bruto de Photoshop y Gimp
+*.xsd
+
